@@ -19,4 +19,5 @@
 
 
 Редактирование и удаление расходов доступно по нажатию на элемент списка.
+<img src="https://user-images.githubusercontent.com/46212492/160858433-78fe0a3b-d24f-4b4b-95ce-c53195a29f5b.png">
 <img src="https://user-images.githubusercontent.com/46212492/160858083-9654ce77-e244-4b90-bf9c-23e43745ae89.png">
