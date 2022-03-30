@@ -8,7 +8,7 @@ if($_REQUEST['PASSWORD'] == $bookkeepingPassword):?>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-	<title>Fin-agency Учет расходов</title>
+	<title>Учет расходов</title>
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<link rel="stylesheet" type="text/css" href="../css/media-queries.css">
 	<script src="https://api.bitrix24.com/api/v1/"></script>
@@ -22,7 +22,7 @@ if($_REQUEST['PASSWORD'] == $bookkeepingPassword):?>
 	<div class="expense-container">
 		<div class="expense-container-box">
 			<div class="main-menu-buttons">
-				<a class="back-button" href="https://fin-agency24.ru/bookkeeping2/index.php?DOMAIN=<?php echo $_REQUEST['DOMAIN'] ?>">
+				<a class="back-button" href="">
 					Главное меню
 				</a>
 
