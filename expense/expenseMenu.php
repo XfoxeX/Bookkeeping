@@ -1,7 +1,7 @@
 <?php 
 $bookkeepingPassword = getenv('BOOKKEEPING_PASSWORD');
 
-if($_REQUEST['DOMAIN'] == $bookkeepingPassword):?>	
+if($_REQUEST['PASSWORD'] == $bookkeepingPassword):?>	
 <!DOCTYPE html>
 <html lang="en">
 <head>
